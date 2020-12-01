@@ -42,7 +42,7 @@ function setup() {
 	 
 	 b1= new BasketClass(400,630,200,10)
 	 b2= new BasketClass(305,450,10,80)
-	 b3= new BasketClass(505,650,10,80)
+	 b3= new BasketClass(495, 450, 10, 80)
 
 
 	Engine.run(engine);
